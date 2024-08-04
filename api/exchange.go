@@ -330,3 +330,4 @@ func convertMOB2MSO(mob build.ManageOfferBuilder) *txnbuild.ManageSellOffer {
 
 	return mso
 }
+
